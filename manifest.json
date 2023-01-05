@@ -1,7 +1,7 @@
 {
   "vendor": "tiendadevi",
-  "name": "store-theme-navidad",
-  "version": "0.0.2",
+  "name": "store-theme-test",
+  "version": "0.0.0",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
